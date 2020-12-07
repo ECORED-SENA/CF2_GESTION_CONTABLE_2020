@@ -9,7 +9,7 @@
     "id": 1,
     "icon": "fa fa-file-text",
     "slug": "investigacion",
-    "title": "1. Investigación de mercados",
+    "title": "1. Información contable",
     "breadcrumb": ["Inicio","Tema 1"],
     "path": "pages/1-tema.html",
     "submenu": [
